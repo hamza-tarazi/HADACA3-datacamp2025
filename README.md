@@ -1,9 +1,5 @@
 # HADACA3-datacamp2025
 HADACA3: Multimodal Deconvolution Benchmark (2025/2026). Benchmarking reference-based deconvolution methods for pancreatic adenocarcinoma using integrated bulk RNA-seq, DNA methylation, and scRNA-seq profiles.
-It sounds like you’re putting together a repository for a high-level bioinformatics challenge. Since this is the third iteration of the **HADACA** (HArnessing DAta for CAncer) series, the README needs to be professional, technical, and clear about the multimodal nature of the data.
-
-Here is a structured proposal for your GitHub repository description and `README.md`.
-
 ---
 
 Welcome to the **HADACA3-datacamp**, a crowdsourced benchmarking challenge designed to advance deconvolution methods in cancer genomics. This project focuses on deconstructing cellular heterogeneity in **Pancreatic Adenocarcinoma** by integrating transcriptomic and methylomic data.
