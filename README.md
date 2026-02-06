@@ -45,12 +45,3 @@ Detailed instructions on data formats, submission guidelines, and evaluation met
 > 
 > If a tumor is a smoothie made of apples, bananas, and strawberries, deconvolution is the math used to determine exactly how many grams of each fruit went into the blender based only on the sweetness, fiber, and color of the final drink.
 
-## 📚 References
-
-1. **Amblard et al.** *A robust workflow to benchmark deconvolution of multi-omic data.*
-2. **Dong, et al.** *SCDC: bulk gene expression deconvolution by multiple single-cell RNA sequencing references.*
-3. **HADACA Series:** [2018, 2019, 2024 Archives].
-
----
-
-**Would you like me to help draft a specific `requirements.txt` or a `CONTRIBUTING.md` file to go along with this?**
